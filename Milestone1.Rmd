@@ -8,5 +8,5 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Project Description 
-
+I plan to look at the relationship between education level and Covid safety behavior. I had initially planned to use data from the SEDA dataset out of Stanford; however, I'm leaning more toward census data on education level after learning how to make maps from census data this week. I also found open-source data from the Carnegie Mellon University Delphi Group that tracks various Covid behavior indicators, such as mask usage and mobility trends. Since this can also be organized at the county level, I'm hoping to merge these two data sources and create some sort of interactive map/dashboard. 
 
